@@ -65,7 +65,7 @@
     <tbody align="center">
       <tr>
         <th width="350px"> 
-          <a href="https://youtu.be/R149Bjdt5t4" target="_blank">
+          <a href="https://youtu.be/OT3mZaJzdco">
             <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
             Click to watch a video
           </a>
@@ -75,6 +75,7 @@
           <h4>Tiny Boat (title wip)</h4>
           <p>👉- Created a player state machine with separate states for walking on land and controlling the boat.</p>
           <p>👉- Implemented camera switching based on the player's active state (land / boat)</p>
+           <p>👉- Implemented NPC, dialog and first quest system</p>
         </td>
       </tr>
     </tbody>
