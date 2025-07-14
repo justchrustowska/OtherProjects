@@ -65,7 +65,7 @@
     <tbody align="center">
       <tr>
         <th width="350px"> 
-          <a href="https://youtu.be/OT3mZaJzdco">
+          <a href="https://youtu.be/Pl1ODTkhAiM">
             <img src="ReadmeResources/obraz_2025-04-14_122153782.png">
             Click to watch a video
           </a>
